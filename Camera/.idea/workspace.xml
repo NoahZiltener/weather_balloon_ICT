@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eab897c8-0243-4e41-b0eb-3bf7f3397bd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Camerav2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Camera.py" beforeDir="false" afterPath="$PROJECT_DIR$/Camera.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593793982279</updated>
       <workItem from="1593793986965" duration="344000" />
-      <workItem from="1594012871570" duration="4675000" />
+      <workItem from="1594012871570" duration="5552000" />
     </task>
     <servers />
   </component>
